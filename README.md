@@ -1,2 +1,2 @@
 # sorting
-using c++ to sort a array by using bubble sort and selection sort algorithm 
+to sort a list of number by using bubble sort and selection sort algorithm 
